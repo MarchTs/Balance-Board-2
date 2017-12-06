@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Project/Scences/Login.unity
     guid: 252d92e62801b55458587f9c1ace3bab
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Project/Scences/BoxGame.unity
     guid: 34fe494730afce045af1c0bef28f3a5e
@@ -30,5 +27,11 @@ EditorBuildSettings:
     path: Assets/Project/Scences/MainMenu.unity
     guid: 330789651e382b74f910fb541dbdb2d9
   - enabled: 1
-    path: Assets/TrackTheCircle/TrackTheCircle.unity
+    path: Assets/Project/Scences/TrackTheCircle.unity
     guid: 3f3235a7b5d527a448d44420d2bec43f
+  - enabled: 1
+    path: Assets/Project/Scences/SelectGameModeScene.unity
+    guid: 5700ccf92d8f87f468fda47484619db1
+  - enabled: 1
+    path: Assets/Project/Scences/TrackTheCircleSetup.unity
+    guid: 5c0c3ca6f2a900b41ab21c34bd9febc2

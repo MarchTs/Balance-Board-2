@@ -11,7 +11,7 @@ public class Sound : MonoBehaviour {
 	public AudioClip Winwin;
 	public AudioClip Back;
 	public AudioClip Ten;
-	AudioSource audio;
+    new AudioSource audio;
 
 	// Use this for initialization
 	void Start () {

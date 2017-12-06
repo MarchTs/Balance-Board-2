@@ -8,7 +8,7 @@ public class timeGame : MonoBehaviour {
 	public Text t,cd1;
 	private float n=999,ns;
 	public bool tu=false,chw = true,chb = true;
-	private int K = 1;
+	//private int K = 1;
 	private int nn=1;
 
 	void Start ()
